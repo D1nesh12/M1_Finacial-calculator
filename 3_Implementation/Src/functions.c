@@ -1,4 +1,13 @@
-
+/**
+ * @file functions.c
+ * @author Dinesh A
+ * @brief Functions
+ * @version 0.1
+ * @date 2022-9-12
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 
 #include<stdio.h>
 #include<math.h>
